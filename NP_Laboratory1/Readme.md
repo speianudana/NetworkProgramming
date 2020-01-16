@@ -8,8 +8,6 @@
 6. Once we fetch all the data, we had to convert it to a common representation, so iconverted in a json.
 10. The final part of the lab is to make a concurrent TCP server, serving the fetched content, that will respond to (mandatory) a column selector message, like `SelectColumn column_name`.
 
-### Implementation:
-
 ### How to run:
 ```
 1. docker pull alexburlacu/pr-server
